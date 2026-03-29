@@ -11,10 +11,6 @@ enum class Hitstate {
     Completed = 2
 };
 
-struct ChartInfo {
-
-};
-
 struct HitObject {
     sf::Time startTime;
     sf::Time endTime;
