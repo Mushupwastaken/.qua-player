@@ -7,7 +7,7 @@ class InputManager {
 private:
 
 public:
-    InputManager() {}
+    InputManager();
 };
 
 } //namespace ne
