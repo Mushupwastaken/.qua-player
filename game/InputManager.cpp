@@ -3,6 +3,6 @@
 
 namespace ne {
 
-
+InputManager::InputManager() {}
 
 } //namespace ne
