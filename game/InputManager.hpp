@@ -4,8 +4,6 @@
 namespace ne {
     
 class InputManager {
-private:
-
 public:
     InputManager();
 };
